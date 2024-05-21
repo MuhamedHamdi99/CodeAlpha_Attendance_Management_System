@@ -13,7 +13,7 @@ System Components
 3. Repositories
 - StudentRepository: Data access layer for the Student entity.
 - CoursesRepository: Data access layer for the Courses entity.
--StudentCourseDateRepository : Data access layer for the StudentCourses_Date entity.
+- StudentCourseDateRepository : Data access layer for the StudentCourses_Date entity.
 
 4. Controllers
 - StudentController: Handles HTTP requests related to student operations, such as displaying the edit form , updating student details and adding new student.
@@ -21,7 +21,7 @@ System Components
 - AttendanceController: Handles HTTP requests related to record course for student.
 
 5.How to Use the System
--Home Page:
+- Home Page:
 Open your web browser and go to http://localhost:8085.
 You will be directed to the home page of the Attendance Management System.
 
